@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://parthkarnawat.github.io/sitemap.xml
